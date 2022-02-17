@@ -1,0 +1,7 @@
+This programme accepts 3 numbers then prints them in ascending order
+1. Ask the user to enter 3 numbers
+2. Create variables min, max and mid
+3. Check if the first number is the smallest, largest or middle
+4. Check if the second number is the smallest, largest or middle
+5. Check if the third number is the smallest, largest or middle
+6. Print the numbers in ascending order as min, mid and max

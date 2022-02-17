@@ -1,0 +1,7 @@
+This programme calculates the square of all numbers input and prints it
+1. Ask user to input a numbers
+2.  Square the numbers input
+3.  Initialize the sum to 0
+4.  Add the square of the numbers input to the sum
+5.  Square = X*X;
+6.  Print the sum

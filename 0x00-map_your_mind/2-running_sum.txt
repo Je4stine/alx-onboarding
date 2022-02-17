@@ -1,0 +1,5 @@
+This programme asks the user to input numbers then adds the numbers to the sum, but stops if the number is a negative value and prints out the sum
+Ask the user to input a numbers
+Assign 0 to a variable Sum
+If the number is negative, print out the sum and stop the loop
+If the number is positive, add the number to the sum and continue the loop
